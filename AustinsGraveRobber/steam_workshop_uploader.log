@@ -1,0 +1,34 @@
+
+-------------------------------------------------------------------------------
+Parsing project file - C:\Users\Austin Rhodes\Repositories\DarkestDungeon-AustinsGraveRobber\AustinsGraveRobber\austins_grave_robber.xml
+Mod Data Directory = C:/Users/Austin Rhodes/Repositories/DarkestDungeon-AustinsGraveRobber/AustinsGraveRobber/
+
+Creating new item...
+.......Created
+
+-------------------------------------------------------------------------------
+Processing Map Files files...
+
+-------------------------------------------------------------------------------
+Searching for preview icon file C:/Users/Austin Rhodes/Repositories/DarkestDungeon-AustinsGraveRobber/AustinsGraveRobber/preview_icon.png...NOT FOUND! - Copying default preview icon to mod directory
+<UploadMode> - Set to direct_upload
+
+
+-------------------------------------------------------------------------------
+Detected 2 unchanged files
+The following files are unchanged and will be uploaded...
+C:/Users/Austin Rhodes/Repositories/DarkestDungeon-AustinsGraveRobber/AustinsGraveRobber/dlc/580100_crimson_court/features/crimson_court/shared/buffs/crimson_court.buffs.json
+C:/Users/Austin Rhodes/Repositories/DarkestDungeon-AustinsGraveRobber/AustinsGraveRobber/dlc/580100_crimson_court/features/crimson_court/trinkets/crimson_court.entries.trinkets.json
+
+-------------------------------------------------------------------------------
+Modded files...
+
+heroes/grave_robber/grave_robber.info.darkest
+effects/base.effects.darkest
+austins_grave_robber.xml
+preview_icon.png
+project.xml
+
+Submitting................................................................Submitted.
+Saving project file C:\Users\Austin Rhodes\Repositories\DarkestDungeon-AustinsGraveRobber\AustinsGraveRobber\austins_grave_robber.xml
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Users/Austin Rhodes/Repositories/DarkestDungeon-AustinsGraveRobber/AustinsGraveRobber/</ModDataPath>
+	<Title>Austin&apos;s Grave Robber Balance</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>friends</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>1</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Gameplay Tweaks</Tags>
+	</Tags>
+	<ItemDescription>
+	Experimental Grave Robber balance changes.
+	</ItemDescription>
+	<PublishedFileId>1434799237</PublishedFileId>
+</project>
+
